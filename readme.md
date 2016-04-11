@@ -8,4 +8,3 @@ Cuttently it's a basic version. Lots of features needs developing.
 The project is related to Laravel5(a PHP MVC framwork), Mysql, Redis.<br>
 Auth module model is based on Mysql, others data are storaged in Redis.<br>
 Laravel deals with the user interaction and other automation operations.<br>
-A sample site:101.251.247.18:8000.
